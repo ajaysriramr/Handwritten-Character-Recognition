@@ -1,7 +1,5 @@
 # Final Project
 
-This is a **group assignment**.
-
 ## Milestone 2 - Code Implementation & Technical Report
 
 This milestone is to be delivered at the end of the semester, Friday April 22 @ 11:59 PM. Find the complete [rubric](https://ufl.instructure.com/courses/447948/assignments/5138679) in the Canvas assignemtn.
